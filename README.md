@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **nothing**.
 
-- 👀 I'm currently focusing on **JavaScript**.
+- 👀 I'm currently focusing on **Python**.
 
-- 🗿 i'm is gaboet
+- 🗿 i'm a broken dream
 
 <p align="center">
 
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/Cakhaho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cakhaho&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact " />
+  <a href="https://github.com/kichanx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cakhaho&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact " />
 
 </a>
 
