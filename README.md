@@ -82,6 +82,6 @@
 
 * [`Pulsa`](6281367241360)
 
-* [`Saweria`](https://saweria.co/TUTORIAN)
+* [`Saweria`](https://saweria.co/Kichan)
 
 * [`Trakteer`](https://trakteer.id/TUTORIAN)
