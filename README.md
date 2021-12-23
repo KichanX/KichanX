@@ -57,7 +57,7 @@
 * [`Trakteer`](https://trakteer.id/TUTORIAN)
 
 > *Number of visitors*
-* **Visitor Github @KICHANX*
+* **Visitor Github @KICHANX**
 ![KICHANX](https://komarev.com/ghpvc/?username=kichanx&color=blue)
 * **Visitor Github @KICHANX**
 ![KICHANX](https://komarev.com/ghpvc/?username=kichanx&color=red)
