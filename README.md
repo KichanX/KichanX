@@ -42,7 +42,7 @@
 
  #sosial media
 
-* [`WhatsApp Admin `](https://wa.me/6281367241360)
+* [`WhatsApp Admin `](https://wa.me/6281367241360?text=Assalamualaikum+Warohmatullahi+wabaokatuh)
 
 * [`Instagram`](https://Instagram.com/KICHAN16_)
 
