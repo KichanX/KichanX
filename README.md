@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://i.ibb.co/1zWbJJc/images-14.jpg" width="100%" alt="API Giphy logo"/>
+<img src="https://cdn.kibrispdr.org/data/foto-killua-zoldyck-6.jpg" width="100%" alt="API Giphy logo"/>
 
 </p>
 
